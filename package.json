@@ -12,7 +12,6 @@
     "start": "node dist/index.js",
     "preview": "vite preview"
   },
-  },
   "dependencies": {
     "@electric-sql/pglite": "^0.5.4",
     "@hookform/resolvers": "^5.7.0",
