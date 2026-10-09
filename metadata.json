@@ -1,0 +1,8 @@
+{
+  "name": "Analizador de Red",
+  "description": "Herramienta avanzada para analizar redes, monitorear tráfico entrante y saliente, medir velocidad de subida y bajada, latencia, conexiones activas y diagnóstico de conectividad.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
